@@ -1,6 +1,7 @@
 :root {
     --primary-color: #020BFF;
     --second-color: #0A0B5C;
+    --blue-color: #0099ff;
     --black-color: #000000;
     --semi-black: #1e1e1e;
     --white-color: #ffffff;
@@ -24,9 +25,9 @@
 .contact-link {
   border: 1px solid white;
   box-shadow: #909090 0px 3px 10px;
-  background: #c94b4b;
-  background: -webkit-linear-gradient(to right, #4b134f, #c94b4b);
-  background: linear-gradient(to right, #4b134f, #c94b4b);
+  background: var(--primary-color);
+  background: -webkit-linear-gradient(to right, var(--blue-color), var(--primary-color));
+  background: linear-gradient(to right, var(--blue-color), var(--primary-color));
   color:white;
   width: fit-content;
   font-size: 16px;
