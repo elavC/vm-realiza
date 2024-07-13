@@ -1,0 +1,794 @@
+@media (max-width: 1700px)   {
+
+    section.s-cards .infor-cards .wrapper-cards .image-card {
+        width: 200px;
+        height: 120px;
+    }
+
+    section.s-cards .infor-cards .wrapper-cards .container-cards {
+        align-items: start;
+    }
+
+    section.s-cards .infor-cards .wrapper-cards .separate {
+        margin: 0 12px;
+        height: 100%;
+    }
+
+    section.s-about .container {
+        width: 80%;
+        gap: 120px;
+    }
+
+    section.s-cards .container {
+        width: 100%;
+    }
+
+    section.s-about .container-block {
+        width: 80%;
+    }
+
+}
+
+@media (max-width: 1500px)   {
+    section.s-about .container-block {
+        width: 86%;
+    }
+
+    .shadow .wrapper h1 {
+        font-size: 30px;
+    }
+
+    section.s-cards .container .top .card {
+        width: 500px;
+        height: 350px;
+    }
+
+    section.s-cards .infor-crf .wrapper-crf .container-crf h3 {
+        font-size: 24px;
+    }
+
+    section.s-cards .infor-crf .wrapper-crf .container-crf p {
+        font-size: 18px;
+        color: rgb(150, 150, 150);
+    }
+
+    section.s-about .abaut-vm .image {
+        width: 70%;
+    }
+
+    section.s-about .container-block .block .image img {
+        width: 500px;
+        height: 400px;
+    }
+
+    section.s-about .container-block .block p {
+        width: 500px;
+        font-size: 18px;
+    }
+
+    section.s-about .container-block .block .infor {
+        width: 400px;
+        height: 350px;
+    }
+    
+    
+    section.s-about .photo-1 {
+        width: 400px;
+        height: 350px;
+    }
+    
+    section.s-about .photo-2 {
+        width: 400px;
+        height: 350px;
+    }
+    
+    section.s-about .photo-3 {
+        width: 400px;
+        height: 350px;
+    }
+    
+}
+
+@media (max-width: 1100px)   {
+    .shadow .wrapper h1 {
+        font-size: 18px;
+        max-width: 70%;
+    }
+
+    .shadow .wrapper p {
+        font-size: 12px;
+        max-width: 64%;
+    }
+
+    .infor-cards-1 .wrapper-cards-1 .container-cards-1 {
+        width: 100%;
+    }
+
+    .infor-cards-1 .wrapper-cards-1 .image-card-1 {
+        width: 100px;
+        height: 60px;
+    }
+
+    .infor-cards-1 .wrapper-cards-1 .title-card-1 h3 {
+        font-size: 14px;
+    }
+
+    .infor-cards-1 .wrapper-cards-1 .description-1 p {
+        font-size: 10px;
+    }
+
+    .infor-cards-1 {
+        width: 68%;
+    }
+
+    section.s-cards .container .top .card {
+        width: 400px;
+        height: 300px;
+    }
+
+    section.s-cards .container .bottom .card {
+        width: 400px;
+        height: 200px;
+    }
+
+    section.s-cards .infor-cards .wrapper-cards {
+        width: 100%;
+        height: 80vh;
+    }
+
+    section.s-cards .infor-cards .wrapper-cards .image-card {
+        width: 180px;
+        height: 100px;
+    }
+
+    .infor-service .wrapper-services a {
+        font-size: 14px;
+    }
+
+    .infor-service .wrapper-services .wrapper-service {
+        padding: 8px;
+    }
+
+    .close-service {
+        width: 40px;
+        height: 40px;
+        margin-top: 16px;
+    }
+
+    .contact-link {
+        width: 300px;
+        height: 40px;
+      }
+
+      section.s-cards .container .top .card {
+        width: 350px;
+        height: 300px;
+    }
+
+    
+    section.s-cards .infor-crf .wrapper-crf .container-crf h3 {
+        font-size: 20px;
+    }
+
+    section.s-cards .infor-crf .wrapper-crf .container-crf p {
+        font-size: 14px;
+    }
+
+      section.s-about .container-block .block .image img {
+        width: 350px;
+        height: 280px;
+    }
+
+    section.s-about .container-block .block .infor img {
+        width: 64px;
+    }
+
+    section.s-about .container-block .block p {
+        width: 350px;
+        font-size: 16px;
+    }
+
+    section.s-about .container-block .block .infor {
+        width: 350px;
+        height: 300px;
+    }
+    
+    
+    section.s-about .photo-1 {
+        width: 350px;
+        height: 300px;
+    }
+    
+    section.s-about .photo-2 {
+        width: 350px;
+        height: 300px;
+    }
+    
+    section.s-about .photo-3 {
+        width: 350px;
+        height: 300px;
+    }
+    
+}
+
+@media (max-width: 1000px) {
+
+    .infor-cards-1 .wrapper-cards-1 {
+        width: 100%;
+        padding: 24px;
+    }
+
+    .infor-cards-1 .wrapper-cards-1 .image-card-1 {
+        width: 80px;
+        height: 50px;
+    }
+    
+    header .logomarca {
+        margin-left: 24px;
+    }
+
+    ul .contact {
+        margin-left: 16px;
+    }
+    
+    .menu-hamburguer-elements li {
+        font-size: 1.2rem;
+    }
+
+    .shadow .wrapper {
+        margin-left: 64px;
+    }
+
+    .shadow .wrapper h1 {
+        font-size: 24px;
+    }
+
+    section.s-cards .container {
+        width: 100%;
+        gap: 24px;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    section.s-cards .card {
+        width: 200px;
+        height: 220px;
+    }
+
+    section.s-cards .infor-crf {
+        width: 100%;
+    }
+
+    section.s-cards .infor-crf .wrapper-crf {
+        height: 80vh;
+    }
+
+    section.s-about .container-block {
+        width: 100%;
+    }
+
+    section.s-faq {
+        height: 130vh;
+    }
+}
+
+@media (max-width: 880px) {
+    section.s-about .container-block .block .infor {
+        width: 300px;
+        height: 280px;
+        font-size: 12px;
+    }
+
+    section.s-about .container-block .block .infor p {
+        font-size: 12px;
+    }
+    
+    
+    section.s-about .photo-1 {
+        width: 300px;
+        height: 280px;
+    }
+    
+    section.s-about .photo-2 {
+        width: 300px;
+        height: 280px;
+    }
+    
+    section.s-about .photo-3 {
+        width: 300px;
+        height: 280px;
+    }
+} 
+
+@media (max-width: 800px) {
+    section.s-about .container-block .block .image img {
+        width: 300px;
+        height: 200px;
+    }
+
+    section.s-about .container-block .block p {
+        width: 300px;
+        font-size: 16px;
+    }
+
+    .shadow .wrapper h1 {
+        font-size: 18px;
+        max-width: 88%;
+    }
+
+    .shadow {
+        height: 80vh;
+    }
+
+    .s-hero {
+        height: 80vh;
+    }
+
+    section.s-cards .container .top .card {
+        width: 280px;
+        height: 210px;
+    }
+
+    section.s-cards .wrapper .infor-cards {
+        width: 95%;
+    }
+
+    section.s-cards .infor-consorcio .wrapper-consorcio {
+        width: 90%;
+        height: 80vh;
+    }
+
+    section.s-cards .infor-consorcio .wrapper-consorcio .container-consorcio h3 {
+        font-size: 20px;
+    }
+    
+    section.s-cards .infor-consorcio .wrapper-consorcio .container-consorcio p {
+        font-size: 14px;
+    }
+
+    section.s-cards .infor-cards .wrapper-cards .title-card h3 {
+        font-size: 16px;
+    }
+
+    section.s-cards .infor-cards .wrapper-cards .description p {
+        font-size: 14px;
+    }
+
+    section.s-cards .infor-cards .wrapper-cards .wrapper-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+    }
+
+    section.s-cards .infor-cards .wrapper-cards .image-card {
+        width: 140px;
+        height: 80px;
+    }
+
+    section.s-faq h2 {
+        font-size: 24px;
+        margin: 24px 0;
+        color: rgb(23, 148, 148);
+    }
+
+    section.s-faq .wrapper {
+        margin: auto;
+        width: 90%;
+        padding-bottom: 0px;
+    }
+
+    section.s-faq .container {
+        width: 90%;
+        gap: 16px;
+    }
+
+    section.s-faq .container summary {
+        padding: 12px ;
+        border-radius: 20px;
+        font-size: 14px;
+    }
+
+    section.s-faq .container p {
+        font-size: 12px;
+    }
+}
+
+
+@media (max-width: 600px) {
+    .menu-hamburger{
+        z-index: 2;
+    }
+
+    ul .contact {
+        padding: 0 0;        
+    }
+
+}
+
+@media (max-width: 450px) {
+
+    .menu {
+        width: 50px;
+        height: 50px;
+    }
+
+    .hamburguer {
+        top: 24px;
+        left: 8px;
+    }
+
+    header {
+        width: 100%;
+        height: 90px;
+    }
+
+    .infor-service {
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        z-index: 100;
+        margin-top: 104px;
+        margin: 24px;
+    }
+
+    .infor-service .wrapper-services .wrapper-service {
+        padding: 16px;
+    }
+
+    ul .contact {
+        padding: 4px 12px;
+        margin-left: 0;
+
+    }
+
+    h2 {
+        font-size: 32px;
+    }
+    
+    header {
+        padding: 8px 0;
+    }
+
+    .shadow .wrapper p {
+        max-width: 100%;
+    }
+
+    section.icons {
+        width: 100%;
+        display: flex;
+        margin-top: 360px;
+        margin: 110% 0 110px 0;
+    }
+
+    section.icons .container {
+        width: 100%;
+    }
+
+    section.icons .container .wrapper .icon img{
+        width: 50px;
+    }
+
+    section.icons .container .wrapper .infor h3 {
+        font-size: 14px;
+    }
+
+    section.icons .container .wrapper .infor p {
+        font-size: 12px;
+    }
+
+    .s-hero {
+        height: 60vh;
+    }
+
+    .infor-cards-1 {
+        width: 100%;
+        margin-top: 24px;
+        margin-left: 0;
+    }
+
+    .infor-cards-1 .wrapper-cards-1 .separate-1 {
+        margin: 0 8px;
+    }
+
+    
+    section.s-cards {
+        padding: 64px 0;
+    }
+
+    section.s-cards .container .top {
+        flex-direction: column;
+        gap: 48px;
+    }
+
+    section.s-cards .container .top .card {
+        width: 95%;
+        height: 280px;
+    }
+
+    section.s-cards .container .bottom .card {
+        width: 90%;
+        height: 220px;
+    }
+
+    .contact-link {
+        margin: auto;
+        margin-bottom: 24px;    
+        padding: 24px 4px;
+    }
+
+    .s-hero {
+        height: 50vh;
+    }
+
+    .s-hero .container .responsive-hidden {
+        display: none;
+    }
+
+    .shadow {
+        width: 100%;
+        height: 100vh;
+        background-image: linear-gradient(to top, black 50%, transparent);
+    }
+
+    .shadow h1 {
+        font-size: 32px;
+    }
+
+    .shadow .wrapper {
+        margin-left: 16px;
+        width: 90%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        gap: 24px;
+    }
+
+    section.s-cards .infor-cards .wrapper-cards {
+        margin-left: 1px;
+        height: 120vh;
+        text-align: center;
+    }
+
+    
+    section.s-cards .infor-cards .wrapper-cards .container-cards {
+        align-items: center;
+        height: 90%;
+    }
+
+
+    section.s-cards .infor-cards .wrapper-cards .title-card h3 {
+        font-size: 14px;
+    }
+    
+    section.s-cards .infor-cards .wrapper-cards .description p {
+        font-size: 12px;
+    }
+
+    section.s-cards .infor-cards .wrapper-cards .container-cards {
+        flex-direction: column;
+    }
+
+    section.s-cards .infor-cards .wrapper-cards .image-card {
+        width: 100px;
+        height: 60px;
+    }
+
+    section.s-cards .infor-cards .wrapper-cards .separate {
+        background-color: aliceblue;
+        width: 100%;
+        height: 1px;
+    }
+
+    section.s-cards .infor-crf .wrapper-crf {
+        width: 90%;
+        height: 60vh;
+    }
+
+    section.s-cards .infor-crf .wrapper-crf .image {
+        height: 20%;
+    }
+
+    section.s-cards .infor-consorcio .wrapper-consorcio {
+        width: 100%;
+        height: 45vh;
+    }
+
+    section.s-cards .infor-consorcio .wrapper-consorcio .container-consorcio h3 {
+        font-size: 16px;
+    }
+    
+    section.s-cards .infor-consorcio .wrapper-consorcio .container-consorcio p {
+        font-size: 12px;
+    }
+
+    section.s-cards .infor-consorcio .wrapper-consorcio .image {
+        height: 40%;
+    }
+
+    section.s-cards .infor-consorcio .wrapper-consorcio .container-consorcio {
+        gap: 12px;
+        margin: auto;
+        width: 80%;
+        text-align: center;
+        color: white;
+    }
+
+    section.s-about {
+        padding: 64px 0;
+    }
+
+    section.s-about .abaut-vm .image {
+        width: 90%;
+    }
+    
+
+    section.s-about .container-block .block {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+    }
+
+    section.s-about .container-block .block:nth-child(2) {
+        flex-direction: column-reverse;
+    }
+
+    section.s-about .container-block .block .infor img {
+        width: 60px;
+        margin-bottom: 24px;
+    }
+
+    section.s-about .container {
+        width: 100%;
+        gap: 120px;
+    }
+    
+    section.s-about .container .block {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    section.s-about .container .block .image {
+        order: 1;
+    }
+
+    section.s-about .container .block .infor {
+        order: 2;
+    }
+
+    section.s-about .container .block p {
+        text-align: center;
+    }
+    
+    section.s-about .container .block .infor {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 90%;
+    }
+
+    section.s-about .container .block .infor p {
+        width: 100%;
+    }
+
+
+    section.s-about .container .block .image {
+        width: 100%;
+        height: 350px;
+
+    }
+
+    section.s-about .container .block .image img {
+        width: 100%;
+        height: 100%;
+        border-radius: 0;
+    }    
+
+    section.s-faq .container {
+        width: 90%;
+    }
+    
+    footer img {
+        width: 100px;
+    }
+
+    footer .container .infor {
+        width: 95%;
+    }
+
+    section.s-about .container-block .block .infor {
+        font-size: 14px;
+    }
+
+    section.s-about .container-block .block .infor p {
+        font-size: 16px;
+    }
+
+}
+
+@media (max-width: 375px) {
+
+    .infor-cards-1 .wrapper-cards-1 .container-cards-1 {
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .infor-cards-1 .wrapper-cards-1 .separate-1 {
+        height: 1px;
+        width: 100%;
+    }
+
+    header .logomarca {
+        width: 54px;
+    }
+
+    .menu {
+        width: 40px;
+        height: 40px;
+    }
+
+    .hamburguer {
+        width: 20px;
+        height: 1px;
+        top: 20px;
+        left: 10px;
+    }
+
+    .shadow .wrapper h1 {
+        font-size: 20px;
+    }
+
+    section.s-cards .container {
+        margin: auto;
+    }
+
+    section.s-cards .container {
+        width: 90%;
+        gap: 24px;
+    }
+
+    section.s-cards .card {
+        width: 148px;
+        height: 180px;
+    }
+
+    section.s-cards .card h3 {
+        font-size: 16px;
+        width: 148px;
+    }
+
+    .contact-link {
+        width: 280px;
+        height: 60px;
+        font-size: 13px;
+        gap: 12px;
+    }
+}
+
+@media (max-width: 330px) {
+    .infor-cards-1 .wrapper-cards-1 .image-card-1 {
+        width: 70px;
+        height: 40px;
+    }
+
+    .infor-cards-1 .wrapper-cards-1 .title-card-1 h3 {
+        font-size: 12px;
+    }
+
+    .infor-cards-1 .wrapper-cards-1 .description-1 p {
+        font-size: 8px;
+    }
+
+    .infor-cards-1 .wrapper-cards-1 .container-cards-1 {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .infor-cards-1 {
+        margin-top: 0px;
+    }
+
+    .infor-cards-1 .close-1 {
+        margin-top: 6px;
+    }
+}
