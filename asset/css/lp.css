@@ -46,10 +46,12 @@ section .container {
 
 section .container .video {
     width: 50%;
+    overflow: hidden;
     margin: 0 auto;
 }
 
-section .container .video #video {
+section .container #video {
+    border-radius: 16px;
     width: 100%;
     height: 100%;
 }
