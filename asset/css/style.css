@@ -357,6 +357,7 @@ section.s-cards .container {
     align-items: center;
     justify-content: center;
     gap: 64px;
+    margin: 0 auto;
 }
 
 section.s-cards .wrapper {
@@ -423,13 +424,20 @@ section.s-cards .card h3 {
     background-color: var(--btn-color);
 }
 
-section.s-cards .card h4 {
+section.s-cards .card a{
+    cursor: pointer;
+    color: black;
     position: absolute;
     margin: auto;
     padding: 8px 16px;
     border-radius: 4px;
     background-color: rgba(255, 255, 255, 0.637);
     opacity: 0.6;
+    transition: 0.3s;
+}
+
+section.s-cards .card a:hover {
+    transform: scale(1.1);
 }
 
 section.s-cards .card h3.cartoes{
